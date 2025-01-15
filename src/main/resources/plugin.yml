@@ -2,7 +2,7 @@ name: StatTracker
 version: '1.0-SNAPSHOT'
 main: org.dimaserver.statTracker.StatTracker
 api-version: '1.21'
-authors: [ Jevk ]
+authors: [ Jevk,Monkeeshunkee]
 description: Custom tab menu for Dima's Minecraft server.
 commands:
   link:
