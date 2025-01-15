@@ -1,0 +1,8 @@
+org\dimaserver\statTracker\commands\Discord.class
+org\dimaserver\statTracker\containers\PlayerStats.class
+org\dimaserver\statTracker\containers\TwitchUser.class
+org\dimaserver\statTracker\StatTracker.class
+org\dimaserver\statTracker\containers\DiscordUser.class
+org\dimaserver\statTracker\db\Database.class
+org\dimaserver\statTracker\commands\Twitch.class
+org\dimaserver\statTracker\listeners\Listeners.class
